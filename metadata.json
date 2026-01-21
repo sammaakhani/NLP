@@ -1,0 +1,5 @@
+{
+  "name": "NLPAssist+ Local",
+  "description": "A high-performance, API-independent NLP system for local document retrieval and synthesis. Processes questions entirely on-device for maximum privacy and speed.",
+  "requestFramePermissions": []
+}
